@@ -1,1 +1,1 @@
-This is a personal project meant to learn and implement how adaptive bitrate streaming works in golang
+This is a personal project meant to learn how adaptive bitrate streaming works by implementing the backend portion of it in golang.
